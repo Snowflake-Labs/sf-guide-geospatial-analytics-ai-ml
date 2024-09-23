@@ -13,5 +13,6 @@ When you complete this quickstart, you will have gained practical experience in 
 - Transforming data using H3 and Time Series functions
 - Training models and predicting results with Cortex ML
 - Using LLM for analysing textual data
+- Using free datasets from Marketplace for geocoding and reverse geocoding
 - Visualizing data with Streamlit
 
