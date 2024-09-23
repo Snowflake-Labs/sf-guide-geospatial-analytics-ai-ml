@@ -1,7 +1,7 @@
 # Geospatial Analytics, AI and ML using Snowflake
 ### Overview
 
-In this quickstart, you will use H3, Time Series, Cortex ML and Streamlit for Analytics, ML and AI use cases. The quickstart is broken up into separate labs:
+In this quickstart, you will use Geospatial functions, Time Series, Cortex ML and Streamlit for Analytics, ML and AI use cases. The quickstart is broken up into separate labs:
 
 - [Lab 1: Geocoding and Reverse Geocoding](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/geocoding_and_reverse_geocoding.ipynb)
 - Lab 2: Forecasting time series on a map
