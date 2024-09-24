@@ -16,3 +16,7 @@ When you complete this quickstart, you will have gained practical experience in 
 - Using free datasets from Marketplace for geocoding and reverse geocoding
 - Visualizing data with Streamlit
 
+## Step-By-Step Guide
+
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [QuickStart Guide](https://quickstarts.snowflake.com/guide/geo-for-machine-learning/index.html).
+
