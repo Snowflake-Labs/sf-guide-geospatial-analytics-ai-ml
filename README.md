@@ -3,10 +3,10 @@
 
 In this quickstart, you will use Geospatial functions, Time Series, Cortex ML and Streamlit for Analytics, ML and AI use cases. The quickstart is broken up into separate labs:
 
-- [Lab 1: Geospatial 101](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/geospatial_101.ipynb)
-- [Lab 2: Geocoding and Reverse Geocoding](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/geocoding_and_reverse_geocoding.ipynb)
+- Lab 1: [Geospatial 101](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/geospatial_101.ipynb)
+- Lab 2: [Geocoding and Reverse Geocoding](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/geocoding_and_reverse_geocoding.ipynb)
 - Lab 3: Forecasting time series on a map
-- Lab 4: Sentiment analysis of customer reviews
+- Lab 4: [Sentiment analysis of customer reviews](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/customer_reviews_sentiment_analysis.ipynb)
 - Lab 5: [Processing unstructured geospatial data](https://github.com/Snowflake-Labs/sf-guide-geospatial-analytics-ai-ml/blob/main/processing_unstructured_geospatial_data.ipynb)
 
 When you complete this quickstart, you will have gained practical experience in several areas:
